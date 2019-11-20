@@ -16,15 +16,15 @@ A Chat widget easy to connect to RASA bot through [Rest](https://rasa.com/docs/r
 
 ## Features
 
-- [Text Messages](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L156)
-- [Buttons](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L169)
-- [Images](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L162)
-- [Quick Replies](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L177)
-- [Cards Carousel](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L192)
-- [Bot Typing Indicator](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L410)
-- [Location Acccess](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L184)
-- [Conversation Restart](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L16)
-- [Proactive Messaging from Bot](https://github.com/JiteshGaikwad/Chatbot_Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L22)
+- [Text Messages](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L156)
+- [Buttons](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L169)
+- [Images](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L162)
+- [Quick Replies](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L177)
+- [Cards Carousel](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L192)
+- [Bot Typing Indicator](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L410)
+- [Location Acccess](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L184)
+- [Conversation Restart](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L16)
+- [Proactive Messaging from Bot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/dad02a53e5449f6b1daa3f70b2c7d0846d228dde/static/js/script.js#L22)
 
 ## Instructions
 *Before you start your bot server, make sure you have added `rest` channel in the `credentials.yml` file*
