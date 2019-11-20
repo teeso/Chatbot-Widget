@@ -36,6 +36,11 @@ A Chat widget easy to connect to RASA bot through [Rest](https://rasa.com/docs/r
 
 **Step_2**: Once you have your Rasa server up & running, open the `index.html` file to test the bot.
 
+## Screenshots:
+![ScreenShot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/master/static/img/ui_1.PNG)
+![ScreenShot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/master/static/img/ui_2.PNG)
+![ScreenShot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/master/static/img/chats.png) ![ScreenShot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/master/static/img/cardsUi_2.png) ![ScreenShot](https://github.com/JiteshGaikwad/Chatbot-Widget/blob/master/static/img/cardsUi.png)
+
 
 ## Demo:
 
