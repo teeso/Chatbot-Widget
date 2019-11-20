@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Chatbot</title>
+  <!--Import Google Icon Font-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:500&display=swap" rel="stylesheet">
+   <!--Import materialize.css-->
+  <link rel="stylesheet" type="text/css" href="static/css/materialize.min.css">
+  
+  <!--Main css-->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+ 
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="widget">
+
+      <div class="chat_header">
+        <!--Add the name of the bot here -->
+        <span class="chat_header_title">Restobot</span>
+        <span id="close">
+          <i class="fa fa-times-circle" aria-hidden="true"></i>
+        </span>
+
+      </div>
+      <!--Chatbot contents goes here -->
+      <div class="chats" id="chats">
+        <div class="clearfix"></div>
+
+
+      </div>
+      <!--user typing indicator -->
+      <div class="keypad">
+
+        <textarea id="userInput" placeholder="Type a message..." class="usrInput"></textarea>
+
+        <div id="sendButton"><i class="fa fa-paper-plane" aria-hidden="true"></i></div>
+      </div>
+    </div>
+    <!--bot widget -->
+    <div class="profile_div" id="profile_div">
+      <img class="imgProfile" src="static/img/botAvatar.png" />
+    </div>
+  </div>
+
+  <!--JavaScript at end of body for optimized loading-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript" src="static/js/materialize.min.js"></script>
+  <!--Main Script -->
+  <script type="text/javascript" src="static/js/script.js"></script>
+</body>
+
+</html>
